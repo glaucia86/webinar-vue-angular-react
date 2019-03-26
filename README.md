@@ -1,5 +1,7 @@
 # Webinar Canal - Glaucia Lemos: "Vue vs React vs Angular... Qual Escolher?!"
 
+[![Canal-Youtube-Glaucia-Lemos.jpg](https://i.postimg.cc/VLN2Sybh/Canal-Youtube-Glaucia-Lemos.jpg)](https://postimg.cc/7bpKcW91)
+
 Repositório responsável pelas demos mostradas durante o webinar!
 O webinar foi transmitido no dia 26/03/2019. Caso deseja rever a transmissão, basta clicar: **[AQUI](bit.ly/webinar-vue-react-angular)**
 
@@ -18,15 +20,15 @@ Durante a transmissão, cada convidado(a) apresentaram os TODO-Lists nos diferen
 
 #### TODO-List: Angular
 
-- [Link Aqui]()
+- [Código - Angular](https://github.com/glaucia86/webinar-vue-angular-react/tree/master/todo-list-angular)
 
 #### TODO-List: Vue.js
 
-- [Link Aqui]()
+- [Código - Vue.Js](https://github.com/glaucia86/webinar-vue-angular-react/tree/master/todo-list-vue)
 
 #### TODO-List: React.js
 
-- [Link Aqui]()
+- [Código - React.js](https://github.com/glaucia86/webinar-vue-angular-react/tree/master/todo-list-react)
 
 ## Links e Recursos Adicionais:
 
