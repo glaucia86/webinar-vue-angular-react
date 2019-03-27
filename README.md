@@ -33,7 +33,7 @@ Durante a transmissão, cada convidado(a) apresentaram os TODO-Lists nos diferen
 ## Links e Recursos Adicionais:
 
 - **[Depurando Angular App no Vs Code](http://bit.ly/depurar-app-angular-vscode)**
-- **[Usando Vue.js App no Vs Code](http://bit.ly/depurar-app-vue-vscode)**
+- **[Usando Vue.js App no Vs Code](http://bit.ly/vscode-vue-depurar)**
 - **[Usando React.js App no Vs Code](http://bit.ly/depurar-app-react-vscode)**
 - **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/tutorial-criar-site-estatico-azure)**
 - **[Deploy Site Estático Azure](http://bit.ly/deploy-site-estatico-azure)**
