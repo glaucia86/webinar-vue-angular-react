@@ -7,7 +7,7 @@ O webinar foi transmitido no dia 26/03/2019. Caso deseja rever a transmissão, b
 
 ## Recursos Utilizados:
 
-- [VsCode](bit.ly/vscode-webinar)
+- [VsCode](https://code.visualstudio.com/?wt.mc_id=webinar-youtube-event-gllemos)
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/)
 - [Angular](https://angular.io/)
